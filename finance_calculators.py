@@ -1,6 +1,6 @@
 import math 
 
-#Display a menue for the user to decide from 
+#Display a menue for the user to decide from.
 print("Choose either 'Investment' or 'bond' from the menu below to proceed:") 
 print("Investment - to calculate the amount of interest you will earn on interest") 
 print("bond - to calculate the amount you will have to pay on a home loan")
