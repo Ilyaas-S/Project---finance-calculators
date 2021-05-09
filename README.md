@@ -15,7 +15,7 @@ The Code is maintained and edited by Myself and any individual who decides to us
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [Ilyaas Salasa]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
